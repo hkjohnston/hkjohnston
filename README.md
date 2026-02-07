@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hannah</h1>
 <h3 align="center">A passionate frontend developer in Charlotte, NC</h3>
 
-- 🔭 I’m currently working on **A website-building project with a friend, focused on creating clean, responsive, and user-friendly web experiencesapplication focused on building clean, interactive user experiences**
+- 🔭 I’m currently working on **A website-building project with a friend, focused on creating clean, responsive, and user-friendly web experiences**
 
 - 🌱 I’m currently learning **Sports data analytics, along with strengthening my front-end development skills and data-driven thinking**
 
